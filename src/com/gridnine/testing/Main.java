@@ -33,6 +33,5 @@ public class Main {
         System.out.println("Прибытие перед последующим отправлением:\n" + flightsArrivalFirstBeforeDeparture);
         System.out.println();
         System.out.println("Провел время на земле более двух часов:\n" + flightsSomeTimeSpentOnTheGroundForMoreThanTwoHours);
-
     }
 }

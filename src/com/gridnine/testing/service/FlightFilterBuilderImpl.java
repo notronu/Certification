@@ -102,5 +102,6 @@ public class FlightFilterBuilderImpl implements FlightFilterBuilder {
             return duration.toHours() > 2;
         });
         return this;
+
     }
 }
