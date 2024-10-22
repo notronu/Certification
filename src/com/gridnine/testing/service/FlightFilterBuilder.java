@@ -15,5 +15,4 @@ public interface FlightFilterBuilder {
 
     FlightFilterBuilder filterSomeTimeSpentOnTheGroundForMoreThanTwoHours();
 
-
 }
